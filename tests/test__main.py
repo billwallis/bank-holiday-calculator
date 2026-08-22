@@ -1,4 +1,4 @@
-from python_template import main
+from bank_holiday_calculator import main
 
 
 def test__main__happy_path():
